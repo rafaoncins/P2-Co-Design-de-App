@@ -64,7 +64,7 @@ form, input{
     background-color: #CC1C10;
     padding: 1.25rem;
     margin: 0.625rem;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     line-height:1.5rem;
     border-radius: 0.625rem;
     box-sizing: border-box;
@@ -86,7 +86,7 @@ form, input{
     background-color: #CC1C10;
     padding: 1.25rem;
     margin: 0.625rem;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     line-height:1.5rem;
     border-radius: 0.625rem;
     box-sizing: border-box;
@@ -99,7 +99,7 @@ button{
     border:none;
     color:#ffffff;
     background-color: #CC1C10;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     display:flex;
     flex-direction: row;
     justify-content:center;
