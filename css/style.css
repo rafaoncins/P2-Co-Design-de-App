@@ -24,6 +24,8 @@ a, ul, li{
 
 .config{
     margin:5%;
+    align-items: flex-start;
+    display: flex;
 }
 
 ul{
@@ -49,9 +51,9 @@ h2, h3 {
 
 form, input{
     display:flex;
-    justify-content: center;
     text-align: center;
-    align-items: center;
+    align-items: flex-start;
+    margin-left: 1rem;
     color: black;
     font-size:1.3rem;
 }
@@ -62,12 +64,12 @@ form, input{
     background-color: #CC1C10;
     padding: 1.25rem;
     margin: 0.625rem;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     line-height:1.5rem;
     border-radius: 0.625rem;
     box-sizing: border-box;
     max-width: 90%;
-    width: 80%;
+    width: 65%;
     display:flex;
     justify-content:center;
 }
@@ -84,19 +86,20 @@ form, input{
     background-color: #CC1C10;
     padding: 1.25rem;
     margin: 0.625rem;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     line-height:1.5rem;
     border-radius: 0.625rem;
     box-sizing: border-box;
     max-width: 100%;
-    width: 40%;
+    width: 35%;
+    text-align: center;
 }
 
 button{
     border:none;
     color:#ffffff;
     background-color: #CC1C10;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     display:flex;
     flex-direction: row;
     justify-content:center;
